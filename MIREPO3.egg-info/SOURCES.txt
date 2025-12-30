@@ -1,0 +1,7 @@
+README.md
+setup.py
+MIREPO3/__init__.py
+MIREPO3.egg-info/PKG-INFO
+MIREPO3.egg-info/SOURCES.txt
+MIREPO3.egg-info/dependency_links.txt
+MIREPO3.egg-info/top_level.txt
